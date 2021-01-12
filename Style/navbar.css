@@ -1,0 +1,11 @@
+body {
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+#barraNavegacion {
+    background-color: rgb(87, 87, 85);
+}
